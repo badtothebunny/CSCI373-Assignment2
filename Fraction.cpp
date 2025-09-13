@@ -1,5 +1,5 @@
 //Fraction class implementation section
-//Programmer: Maria Psomas :)
+//Programmer: Badtothebunny
 #include "Fraction.h"
 
 //Default constructor
@@ -110,3 +110,4 @@ void Fraction::simplify()
 		denominator = denominator / num;
 	}
 }
+
