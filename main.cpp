@@ -1,5 +1,5 @@
 //This program focuses on basic operations between fractions
-//Programmer: Maria Psomas
+//Programmer: Badtothebunny
 #include <iostream>
 #include <cstdlib> //For RNG
 #include <ctime>
@@ -54,3 +54,4 @@ int main(int argc, char** argv)
 	answer.print();
 	}
 }
+
